@@ -7,7 +7,7 @@ public class AlphaScript {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("16/10/1990");
+		System.out.println("16");
 
 	}
 
