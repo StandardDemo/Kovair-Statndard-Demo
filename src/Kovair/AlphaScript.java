@@ -3,7 +3,7 @@ package Kovair;
 public class AlphaScript {
 
 	public AlphaScript() {
-		// TODO Comment added during Demo
+		// TODO Comment added during Demo1
 	}
 
 	public static void main(String[] args) {
