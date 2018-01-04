@@ -2,6 +2,7 @@ package com.model;
 
 public class User {
 	private String userId;
+	private String SqlCon;
 	private String password;
 	
 	public User(String userId, String password){
