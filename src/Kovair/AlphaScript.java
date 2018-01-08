@@ -7,7 +7,7 @@ public class AlphaScript {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("User Sggtory ID: 153984374");
+		System.out.println("User Story ID: 153984374");
    
 	}
 
