@@ -10,7 +10,7 @@ public class UserRepository {
 
 	public void addUsersToRepository() {
 		User user1 = new User("admin", "admin");
-		User user2 = new User("debu", "debu");
+		User user2 = new User("","");
 		userList.add(user1);
 		userList.add(user2);
 	} 
