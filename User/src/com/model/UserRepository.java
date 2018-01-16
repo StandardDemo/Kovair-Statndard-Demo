@@ -10,8 +10,10 @@ public class UserRepository {
 
 	public void addUsersToRepository() {
 		User user1 = new User("admin", "admin");
-		User user2 = new User("Bean","Bean"); // Codefile for 154237160
+		User user2 = new User("Bean","Bean");
+		User user3 = new User("Tim","Tim");
 		userList.add(user1);
 		userList.add(user2);
+		userList.add(user3);
 	} 
 }
