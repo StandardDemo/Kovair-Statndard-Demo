@@ -4,7 +4,7 @@ public class newuser {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.print("Medical");
+System.out.print("MedicalDevice");
 	}
 
 }
