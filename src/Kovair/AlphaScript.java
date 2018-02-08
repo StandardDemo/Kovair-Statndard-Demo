@@ -16,7 +16,7 @@ public class Login extends JFrame implements ActionListener, KeyListener{
        private String m_context = null;
        private String m_email = null;
        private String m_password = null;
-       private String m_entryFullName = null;
+       private String m_entryFullName = "Mayukh";
 
        // Gui Components ('g' -> GUI component)
        private JPanel           g_root = null;
