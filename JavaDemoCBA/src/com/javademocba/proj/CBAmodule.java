@@ -23,6 +23,6 @@ class Solution {
                     for (String right: generateParenthesis(n-1-c))
                         ans.add("(" + left + ")" + right );
         }
-        return ans;
+        return ans;// modification
     }
 }
