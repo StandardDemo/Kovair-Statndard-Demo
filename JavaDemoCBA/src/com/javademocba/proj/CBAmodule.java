@@ -11,7 +11,7 @@ public class CBAmodule{
 		List<String> qa= a.generateParenthesis(5);
 		System.out.println(qa);
 	}
-}
+}//comment for 862
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList();
