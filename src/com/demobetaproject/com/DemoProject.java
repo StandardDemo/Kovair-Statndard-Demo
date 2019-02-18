@@ -4,7 +4,7 @@ import java.awt.List;
 
 public class DemoProject {
 	public static final String GENDER_MALE = "M";
-	   public static final String GENDER_FEMALE = "Y";
+	   public static final String GENDER_FEMALE = "M";
 	 //Checkin for 318
 	   private String userName;
 	   private String gender;
