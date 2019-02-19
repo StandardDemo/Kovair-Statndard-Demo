@@ -5,7 +5,7 @@ import java.awt.List;
 public class DemoProject {
 	public static final String GENDER_MALE = "M";
 	   public static final String GENDER_FEMALE = "Y";
-	 //Checkin for KDP-198
+	 //Checkin for Jira ID KDP-198
 	   private String userName;
 	   private String gender;
 	   private String password;
