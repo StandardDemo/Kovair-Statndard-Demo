@@ -5,7 +5,7 @@ import java.awt.List;
 public class UserAccount {
 	public static final String GENDER_MALE = "M";
 	   public static final String GENDER_FEMALE = "Y";
-	 //Checkin
+	 //Checkin 1
 	   private String userName;
 	   private String gender;
 	   private String password;
