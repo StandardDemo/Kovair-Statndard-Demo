@@ -4,8 +4,8 @@ import java.awt.List;
 
 public class DemoProject {
 	public static final String GENDER_MALE = "M";
-	   public static final String GENDER_FEMALE = "Y";
-	 ///Check in for FR 867 
+	   public static final String GENDER_FEMALE = "F";
+	 ///Check in for FR 867
 	   private String userName;
 	   private String gender;
 	   private String password;////
