@@ -5,7 +5,7 @@ import java.awt.List;
 public class DemoProject {
 	public static final String GENDER_MALE = "M";
 	   public static final String GENDER_FEMALE = "F";
-	 ///Check in for fr 866 fr
+	
 	   private String userName;
 	   private String gender;
 	   private String password;////
