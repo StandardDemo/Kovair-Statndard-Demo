@@ -8,7 +8,7 @@ public class DemoProject {
 	
 	   private String userName;
 	   private String gender;
-	   private String password;////
+	   private String password;
 	 
 	   private List roles;
 	 
