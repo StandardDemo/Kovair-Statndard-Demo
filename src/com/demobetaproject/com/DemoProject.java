@@ -16,6 +16,6 @@ public class DemoProject {
 	   }
 	public static void main(String[] args) {
 		
-	}//commit for Jira issue KDP-1032
+	}//commit for Jira issue KDP-1032 completed
 
 }
