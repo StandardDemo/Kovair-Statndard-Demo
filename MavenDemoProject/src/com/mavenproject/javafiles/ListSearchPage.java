@@ -19,7 +19,7 @@ public class ListSearchPage {
          
                         ans.add("(" + left + ")" + right );
         }
-        return ans;// modif
+        return ans;// modifi
 	}
 
 	private static Object generateParenthesis(int c) {
