@@ -4,7 +4,7 @@ public class Test {
         countWordsViaGUI();
     }
 
-  //TeamCity test_SM
+  //TeamCity test
     // allow user to pick file to exam via GUI.
     // allow multiple picks
     public static void countWordsViaGUI() {
@@ -158,7 +158,7 @@ public class Test {
             f = chooser.getSelectedFile();
         return f;
     }
-}//SM
+}
 //com
 //commm1sdsdsd
 //commcomm
