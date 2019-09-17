@@ -68,7 +68,7 @@ public class Test {
 
     // perform a series of experiments on files. Determine average time to
     // count words in files of various sizes
-    private static void performExp() {
+    private static void performExp() { nm
         String[] smallerWorks = {"smallWords.txt", "2BR02B.txt", "Alice.txt", "SherlockHolmes.txt"};;
         String[] bigFile = {"ciaFactBook2008.txt"};
         timingExpWithArrayList(smallerWorks, 50);
