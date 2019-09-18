@@ -4,9 +4,7 @@ public class Test {
         countWordsViaGUI();
     }
 
-  //TeamCity test
-    // allow user to pick file to exam via GUI. 
-    // allow multiple picks
+  
     public static void countWordsViaGUI() {
         setLookAndFeel();
         try {
