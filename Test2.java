@@ -10,9 +10,6 @@ public class BinaryConverter {
         }
     }
     
-    /*
-     * pre: none
-     * post: returns a String with base10Num in base 2
      */
     public static String toBinary(int base10Num){
         boolean isNeg = base10Num < 0;
