@@ -9,8 +9,6 @@ public class BinaryConverter {
             System.out.println(i + ": " + Integer.toBinaryString(i));
         }
     }
-    
-     */
     public static String toBinary(int base10Num){
         boolean isNeg = base10Num < 0;
         base10Num = Math.abs(base10Num);        
