@@ -29,11 +29,7 @@ public class BinaryConverter {
             result = "-" + result;
         return result;
     }
-    
-    /*
-     * pre: cal != null
-     * post: return true if val consists only of characters 1 and 0, false otherwise
-     */
+   
     public static boolean all0sAnd1s(String val){
         assert val != null : "Failed precondition all0sAnd1s. parameter cannot be null";
         boolean all = true;
