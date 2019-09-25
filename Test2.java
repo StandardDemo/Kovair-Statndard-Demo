@@ -26,7 +26,7 @@ public class BinaryConverter {
         if( isNeg )
             result = "-" + result;
         return result;
-    }
+    }//logic
    
     public static boolean all0sAnd1s(String val){
         assert val != null : "Failed precondition all0sAnd1s. parameter cannot be null";
