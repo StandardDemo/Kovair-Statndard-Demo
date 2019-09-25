@@ -17,7 +17,7 @@ public class BinaryConverter {
         while(base10Num > 1){
             result = (base10Num % 2) + result;
             base10Num /= 2;
-        }//logic
+        }
         assert base10Num == 0 || base10Num == 1 : "value is not <= 1: " + base10Num;
         
         result = base10Num + result;
