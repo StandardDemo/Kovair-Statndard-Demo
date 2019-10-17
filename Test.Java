@@ -29,9 +29,6 @@ public class Test {
             System.out.println("Problem reading the data file. Exiting the program." + e);
         }
     }
-
-
-    // determine distinct words in a file using an array list
     private static ArrayList<String> countWordsWithArrayList(Scanner fileScanner) {
 
 
