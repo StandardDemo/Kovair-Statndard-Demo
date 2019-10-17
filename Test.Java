@@ -37,8 +37,6 @@ public class Test {
         return result;
     }
 
-
-    // determine distinct words in a file and frequency of each word with a Map
     private static Map<String, Integer> countWordsWithMap(Scanner fileScanner) {
 
 
