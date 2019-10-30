@@ -10,7 +10,7 @@ public class Test {
         try {
             Scanner key = new Scanner(System.in);
             do {
-                System.out.println("Opening GUI to choose file.");
+                System.out.println("Opening GUI to choose file.");c
                 Scanner fileScanner = new Scanner(getFile());
                 Stopwatch st = new Stopwatch();
                 st.start();
