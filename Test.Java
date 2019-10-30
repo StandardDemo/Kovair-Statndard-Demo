@@ -4,7 +4,7 @@ public class Test {
         countWordsViaGUI();
     }
 
-  
+  //36
     public static void countWordsViaGUI() {
         setLookAndFeel();
         try {
