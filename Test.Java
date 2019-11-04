@@ -50,7 +50,7 @@ public class Test {
         for(int i = 0; i < words.size() && i < numWordsToShow; i++)
             System.out.println(words.get(i));
     }
-//mod
+//modified
 
     private static void showWords(Map<String, Integer> words, int numWordsToShow) {
 
