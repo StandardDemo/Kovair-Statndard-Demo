@@ -10,7 +10,7 @@ public class ListSearchPage {
 		// Commit for 872
 		ArrayList<String> ans = new ArrayList();
         int n = 0;
-		if (n == 0) {
+		if (n == 0) { 
             ans.add("");
         } else {
             String left = null;
